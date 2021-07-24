@@ -12,7 +12,7 @@ The input sound is splited into frequencies and an LED that corresponds to the m
 * Resistor 220 Ω - x11
 * LED - x11
 * Perfboard 7x5cm (24x18 holes + 2x8 side connectors) - x1
-* Wires - x10
+* Wires - x16
 * 9V/1A DC Power supply (DC-005 male plug) - x1
 * DC-005 feemale plug - x1
 * Soldering set (iron, solder, flux, e.t.c.) - x1
